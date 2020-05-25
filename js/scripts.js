@@ -87,6 +87,6 @@ $('.workeightimage').hover(function(){
 $(document).ready(function() {
     $("#emailmessage").submit(function(event) {
         event.preventDefault();
-        alert("Form submitted");
+        alert("We have received your message. Thank you for contacting us!");
     });
 });
