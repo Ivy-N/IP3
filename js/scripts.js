@@ -21,9 +21,7 @@ $(document).ready(function(){
 });
 
 
-///hover
-
-///FOR WORK ONE TO EIGHT
+///HOVER FOR WORK ONE TO EIGHT
 
 $(document).ready(function(){
 $('.workoneimage').hover(function(){
