@@ -1,0 +1,83 @@
+body{
+  align-self: center;
+}
+.welcome{
+  color:white;
+  height:1071px;
+  width:1920px;
+  }
+
+.welcomecontent{
+  color:white;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  text-align: center;
+}
+
+.services{
+  align-items: center;
+  color:white;
+  height:480px;
+  width:1920px;
+}
+
+.contact{
+  align-items: center;
+  color:white;
+  height:683px;
+  width:1920px;
+}
+
+.aboutus{
+  text-align:center;
+}
+
+#designdescriptionshowing{
+  display:none;
+}
+
+#developmentdescriptionshowing{
+  display:none;
+}
+
+#productdescriptionshowing{
+  display:none;
+}
+
+.workoneimageplustitle{
+  display:none
+}
+
+.worktwoimageplustitle{
+  display:none
+}
+
+.workthreeimageplustitle{
+  display:none
+}
+
+.workfourimageplustitle{
+  display:none
+}
+
+.workfiveimageplustitle{
+  display:none
+}
+
+.worksiximageplustitle{
+  display:none
+}
+
+.worksevenimageplustitle{
+  display:none
+}
+
+.workeightimageplustitle{
+  display:none
+}
+
+.portfoliopictures {
+cursor: pointer;
+color: #0088cc;
+}
